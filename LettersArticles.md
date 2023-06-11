@@ -25,7 +25,7 @@ A collection of letters and articles sent to Mom (grandma/abuelita) and Dad (gra
         - [Mozelle Vandever: San Angelo, Texas](#mozelle-vandever-san-angelo-texas)
         - [Juanita C Woodle – Abilene, Texas](#juanita-c-woodle--abilene-texas)
         - [Kathy Mejia - Westlake, Ohio](#kathy-mejia---westlake-ohio)
-        - [Rick Perry - Texas Commisioner](#rick-perry---texas-commisioner)
+        - [Rick Perry - Texas Commissioner](#rick-perry---texas-Commissioner)
         - [Francis Payntry - Odessa, Texas](#francis-payntry---odessa-texas)
         - [Bill Pierce - Crawford, Texas](#bill-pierce---crawford-texas)
     - [Newspaper Articles](#newspaper-articles)
@@ -84,7 +84,7 @@ It is inspiring to read these letters and often times brings a tear to the eye w
 ### Kathy Mejia - Westlake, Ohio
 ![](./images/Letter_MejiaKathy_WestlakeOhio.JPG)
 
-### Rick Perry - Texas Commisioner
+### Rick Perry - Texas Commissioner
 ![](./images/Letter_PerryRick_Commissioner.JPG)
 
 ### Francis Payntry - Odessa, Texas
