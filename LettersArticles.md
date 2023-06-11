@@ -28,7 +28,6 @@ A collection of letters and articles sent to Mom (grandma/abuelita) and Dad (gra
         - [Rick Perry - Texas Commisioner](#rick-perry---texas-commisioner)
         - [Francis Payntry - Odessa, Texas](#francis-payntry---odessa-texas)
         - [Bill Pierce - Crawford, Texas](#bill-pierce---crawford-texas)
-        - [Francis Payntry - Odessa, Texas](#francis-payntry---odessa-texas)
     - [Newspaper Articles](#newspaper-articles)
         - [Elizabeth Hudson – Anchorage Daily News: Anchorage, Alaska](#elizabeth-hudson--anchorage-daily-news-anchorage-alaska)
         - [Fabian Graduation](#fabian-graduation)
@@ -93,9 +92,6 @@ It is inspiring to read these letters and often times brings a tear to the eye w
 
 ### Bill Pierce - Crawford, Texas
 ![](./images/Letter_PierceBill_CrawFordTx.JPG)
-
-### Francis Payntry - Odessa, Texas
-![](./images/Letter_MejiaKathy_WestlakeOhio.JPG)
 
 ## Newspaper Articles
 ### Elizabeth Hudson – Anchorage Daily News: Anchorage, Alaska
