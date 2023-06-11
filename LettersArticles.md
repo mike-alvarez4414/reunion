@@ -24,6 +24,11 @@ A collection of letters and articles sent to Mom (grandma/abuelita) and Dad (gra
         - [Unknown: Unknown](#unknown-unknown)
         - [Mozelle Vandever: San Angelo, Texas](#mozelle-vandever-san-angelo-texas)
         - [Juanita C Woodle – Abilene, Texas](#juanita-c-woodle--abilene-texas)
+        - [Kathy Mejia - Westlake, Ohio](#kathy-mejia---westlake-ohio)
+        - [Rick Perry - Texas Commisioner](#rick-perry---texas-commisioner)
+        - [Francis Payntry - Odessa, Texas](#francis-payntry---odessa-texas)
+        - [Bill Pierce - Crawford, Texas](#bill-pierce---crawford-texas)
+        - [Francis Payntry - Odessa, Texas](#francis-payntry---odessa-texas)
     - [Newspaper Articles](#newspaper-articles)
         - [Elizabeth Hudson – Anchorage Daily News: Anchorage, Alaska](#elizabeth-hudson--anchorage-daily-news-anchorage-alaska)
         - [Fabian Graduation](#fabian-graduation)
@@ -76,6 +81,22 @@ It is inspiring to read these letters and often times brings a tear to the eye w
 ![](./images/Letter_VandeverMozelle_SanAngelo_p1.JPG)
 ### Juanita C Woodle – Abilene, Texas
 ![](./images/Letter_WoodleJuanita_Abilene.JPG)
+
+### Kathy Mejia - Westlake, Ohio
+![](./images/Letter_MejiaKathy_WestlakeOhio.JPG)
+
+### Rick Perry - Texas Commisioner
+![](./images/Letter_PerryRick_Commissioner.JPG)
+
+### Francis Payntry - Odessa, Texas
+![](./images/Letter_MejiaKathy_WestlakeOhio.JPG)
+
+### Bill Pierce - Crawford, Texas
+![](./images/Letter_PierceBill_CrawFordTx.JPG)
+
+### Francis Payntry - Odessa, Texas
+![](./images/Letter_MejiaKathy_WestlakeOhio.JPG)
+
 ## Newspaper Articles
 ### Elizabeth Hudson – Anchorage Daily News: Anchorage, Alaska
 ![](./images/NewspaperArticle_Elizabeth_Hudson.JPG)
