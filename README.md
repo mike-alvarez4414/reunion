@@ -1,3 +1,13 @@
+<!-- TOC -->
+
+- [reunion](#reunion)
+    - [Letters and Articles](#letters-and-articles)
+    - [Original Homes](#original-homes)
+    - [Ancestry Reports](#ancestry-reports)
+    - [Our first homes - Buford, Texas](#our-first-homes---buford-texas)
+
+<!-- /TOC -->
+
 # reunion
 family reunion information
 
@@ -19,3 +29,7 @@ The term "haplogroup" refers to a family of lineages that share a common ancesto
 
 - [Maternal Haplogroup](./23andMe/maternal_haplogroup.pdf) shows the lineage from the mother's DNA. Each generation, females pass down copies of their mitochondrial DNA (mtDNA) to their children. mtDNA is only passed down from the mother to the children. Fathers cannot pass mtDNA to their children. It use  It started in Africa, migrated to Asia, and from there to North and South America. From the componsition report you will see that 37.7% DNA is from Indigenous Americans. This happened in North and South America. 
 - [Paternal Haplogroup](./23andMe/paternal_haplogroup.pdf) shows the lineage from the father's DNA. Each generation, males pass copies of their Y chromosomes on to their male children. Mothers and females do not have Y chromosomes.
+
+## Our first homes - Buford, Texas
+
+Click [here to view sketches](buffordDrawing.md) of our first homes in Buford, Texas.
