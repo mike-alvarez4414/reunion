@@ -1,14 +1,15 @@
 <!-- TOC -->
 
-- [reunion](#reunion)
+- [Reunion](#reunion)
     - [Letters and Articles](#letters-and-articles)
     - [Original Homes](#original-homes)
     - [Ancestry Reports](#ancestry-reports)
     - [Our first homes - Buford, Texas](#our-first-homes---buford-texas)
+    - [Family Tree PDF Downloads](#family-tree-pdf-downloads)
 
 <!-- /TOC -->
 
-# reunion
+# Reunion
 family reunion information
 
 ## Letters and Articles
@@ -33,3 +34,8 @@ The term "haplogroup" refers to a family of lineages that share a common ancesto
 ## Our first homes - Buford, Texas
 
 Click [here to view sketches](buffordDrawing.md) of our first homes in Buford, Texas.
+
+## Family Tree PDF Downloads
+
+- [Alvarez + Franco Descendents](AlvarezFranco2023_06_17.pdf)
+- [Alvarez Descendents](Alvarez2023_06_17.pdf)
