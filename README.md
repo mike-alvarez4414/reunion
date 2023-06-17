@@ -38,4 +38,4 @@ Click [here to view sketches](buffordDrawing.md) of our first homes in Buford, T
 ## Family Tree PDF Downloads
 
 - [Alvarez + Franco Descendents](AlvarezFranco2023_06_17.pdf)
-- [Alvarez Descendents](Alvarez2023_06_17.pdf)
+- [Alvarez Descendents](Alvarez_2023_06_17.pdf)
