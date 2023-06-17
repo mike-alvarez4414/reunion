@@ -6,6 +6,7 @@
     - [Ancestry Reports](#ancestry-reports)
     - [Our first homes - Buford, Texas](#our-first-homes---buford-texas)
     - [Family Tree PDF Downloads](#family-tree-pdf-downloads)
+    - [Order Family Tree books](#order-family-tree-books)
 
 <!-- /TOC -->
 
@@ -39,3 +40,10 @@ Click [here to view sketches](buffordDrawing.md) of our first homes in Buford, T
 
 - [Alvarez + Franco Descendents](AlvarezFranco2023_06_17.pdf)
 - [Alvarez Descendents](Alvarez_2023_06_17.pdf)
+
+## Order Family Tree books
+There are 2 books 
+- Alvarez Family Tree - 2023 at $18
+- Alvarez - Franco Family Tree - 2023 at $10
+
+Go to [Lulu Publishing](https://www.lulu.com/search?page=1&pageSize=4&product=miguel-saul-alvarez%2Calvarez-family-tree-2023%2Cpaperback%2Cproduct-v6g78z.html&q=alvarez+family+tree&adult_audience_rating=00) to order which ever book you want.
